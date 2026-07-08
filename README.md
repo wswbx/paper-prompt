@@ -37,7 +37,7 @@
 # Input
 
 
-```markdown
+#读论文prompt，来自https://github.com/FeijiangHan/PaperForge/
 你的任务是：清晰、易懂、深入、详细的总结这篇论文（读取PDF、搜索arxiv等各种信息源获取论文）。
 
 你的总结需要条理清晰的包含下面环节：
