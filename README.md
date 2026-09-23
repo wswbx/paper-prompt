@@ -97,6 +97,8 @@ Learn:
 * 请严格区分四类信息：论文原文明确声称的内容、相关文献中的已有结论、基于证据的合理推断、仍然不确定的猜测。不要把推断写成事实。
 ````
 
+
+https://github.com/Apprenticew/academic-writing/tree/main/
 ````markdown
 # Academic Writing：适合中英文论文迭代的直接复制版
 
